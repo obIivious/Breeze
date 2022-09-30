@@ -12,3 +12,7 @@ Print
 Open
 
 -  run["C:\Windows\notepad.exe"];
+
+Request
+
+-  request["https://pastebin.com/raw/eT0iu9C8"];
