@@ -40,3 +40,11 @@ Load value
 Input
 
 -  input name = ">";
+
+If statement
+
+-  if x = y [function, delay];
+
+Delay
+
+-  delay[second]
