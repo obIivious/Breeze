@@ -1,6 +1,9 @@
 # Breeze
 Basic scripting language
 
+!! See wiki for more info !!
+
+
 Variables
 
 -  var variable = "Hello World";
@@ -24,3 +27,11 @@ Function
 Call Function
 
 -  schedule[function, 1];
+
+Save value
+
+-  save["name", variable];
+
+Load value
+
+-  load["name"];
