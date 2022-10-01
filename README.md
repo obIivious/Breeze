@@ -2,6 +2,7 @@
 Basic scripting language
 
 !! See wiki for more info !!
+https://github.com/ObliviousFuture/Breeze/wiki
 
 
 Variables
