@@ -48,3 +48,7 @@ If statement
 Delay
 
 -  delay[second]
+
+Random
+
+-  var variable = random[1, 5];
