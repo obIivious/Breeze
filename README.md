@@ -16,3 +16,11 @@ Open
 Request
 
 -  request["https://pastebin.com/raw/eT0iu9C8"];
+
+Function
+
+-  func function = (log["hello"], log["world"]);
+
+Call Function
+
+-  schedule[function, 1];
