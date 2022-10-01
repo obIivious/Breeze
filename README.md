@@ -36,3 +36,7 @@ Save value
 Load value
 
 -  load["name"];
+
+Input
+
+-  input name = ">";
