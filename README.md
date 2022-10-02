@@ -52,3 +52,7 @@ Delay
 Random
 
 -  var variable = random[1, 5];
+
+Clear
+
+-  clear[];
