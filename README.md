@@ -56,3 +56,7 @@ Random
 Clear
 
 -  clear[];
+
+For range
+
+-  for 3, do[function, 1];
