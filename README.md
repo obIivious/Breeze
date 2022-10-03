@@ -8,6 +8,7 @@ https://github.com/ObliviousFuture/Breeze/wiki
 Variables
 
 -  var variable = "Hello World";
+-  var variable = "Hello, "+"World";
 
 Print
 
@@ -60,3 +61,8 @@ Clear
 For range
 
 -  for 3, do[function, 1];
+
+Lists
+
+-  list myList = "hello", "world";
+-  log[myList{0}];
